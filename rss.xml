@@ -2,13 +2,27 @@
     <channel>
         <title><![CDATA[Captured]]></title>
         <description><![CDATA[Captured]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/captured/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 26 Jun 2016 14:16:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 26 Jun 2016 14:22:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/captured/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[IMG_7387]]></title>
+            <description><![CDATA[<article><h1>IMG_7387</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fb2c3885fce23f76df3fd689d5c1e359/noop.jpg?input=https%3A%2F%2Ffarm4.staticflickr.com%2F3526%2F3963887741_74388da272_b.jpg"></article>]]></description>
+            <link>https://www.flickr.com/photos/conflenti/3963887741/in/album-72157622476935294/</link>
+            <guid isPermaLink="false">2bd00948-6f31-40c8-aa7e-36da5d52116f</guid>
+            <pubDate>Sun, 26 Jun 2016 14:22:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cloudbreak Stock]]></title>
+            <description><![CDATA[<article><h1>Cloudbreak Stock</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e8181e38c78d218151f8c934212ca6d3/noop.jpg?input=https%3A%2F%2Ffarm8.staticflickr.com%2F7302%2F11790467544_bdd00c16ce_b.jpg"></article>]]></description>
+            <link>https://www.flickr.com/photos/conflenti/11790467544/in/album-72157639457550576/</link>
+            <guid isPermaLink="false">41e915f3-52b0-4495-8349-008322c6b834</guid>
+            <pubDate>Sun, 26 Jun 2016 14:22:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[IMG_2379]]></title>
-            <description><![CDATA[<article><h1>IMG_2379</h1><img src="https://farm5.staticflickr.com/4092/4831607927_6d4113dbd4_b.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>IMG_2379</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/922ad71a3c3d22fc6adb919759c69559/noop.jpg?input=https%3A%2F%2Ffarm5.staticflickr.com%2F4092%2F4831607927_6d4113dbd4_b.jpg"></article>]]></description>
             <link>https://www.flickr.com/photos/conflenti/4831607927/in/album-72157624588863594/</link>
             <guid isPermaLink="false">1fa2e697-19f2-4e76-8978-9a187869d976</guid>
             <pubDate>Sun, 26 Jun 2016 14:16:25 GMT</pubDate>
